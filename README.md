@@ -124,8 +124,8 @@ sequenceDiagram
 
 1. Clone or download the repository:
 ```bash
-   git clone 
-   cd 
+   git clone https://github.com/raskerli/OOD-assignment2.git
+   cd OOD-assignment2
 ```
 
 2. Compile all Java files:
